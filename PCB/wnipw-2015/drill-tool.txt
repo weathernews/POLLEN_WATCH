@@ -1,0 +1,15 @@
+
+     Drill Tool_Report Title  =  WNIPW-2015_1
+
+      Drill Layer   =  wnipw-2015_1_nc.dat
+
+
+
+ code  Type    Finish_size    +Tol    -Tol    count       apr_size  
+
+ D10    VIA     0.249         -       -          43       (249.00) 
+ 
+ D11     TH     1.0           -       -           4      (1000.11) 
+ 
+                                Total_count     47
+

@@ -1,0 +1,49 @@
+WNIPW-2015_1
+
+
+  Format List
+
+    FORMAT                 Gerber RS274X
+    Data type              Ascii
+    Units                  MM
+    coordinates            absolute
+    Decimal Numbers        yes
+    Number format          3.3
+    Zeros omitted          leading
+    EOB code               *
+    Line feed code         CRLF
+    Arc Break              yes
+
+
+
+
+
+#--<PATTERN LAYER>----------------#
+
+   wnipw-2015_1_l1c.dat    PATTERN_TOP              
+   wnipw-2015_1_l2s.dat    PATTERN_BOTTOM           
+
+#--<SOLDER RESIST LAYER>----------#
+
+   wnipw-2015_1_src.dat    SOLDER_RESIST_TOP        
+   wnipw-2015_1_srs.dat    SOLDER_RESIST_BOTTOM     
+
+#--<SILK SCREEN LAYER>------------#
+
+   wnipw-2015_1_spc.dat    SILK_SCREEN_TOP          
+   wnipw-2015_1_sps.dat    SILK_SCREEN_BOTTOM       
+   wnipw-2015_1_spcx.dat    SILK_SCREEN_CUT_TOP      
+   wnipw-2015_1_spsx.dat    SILK_SCREEN_CUT_BOTTOM   
+
+#--<METAL MASK LAYER>-------------#
+
+   wnipw-2015_1_fpc.dat    METAL_MASK_TOP           
+   wnipw-2015_1_fps.dat    METAL_MASK_BOTTOM        
+
+#--<BOARD LAYER>------------------#
+
+   wnipw-2015_1_gai.dat    OUTLINE                  
+
+#--<DRILL LAYER>------------------#
+
+   wnipw-2015_1_nc.dat     DRILL_TOP-BOTTOM         
