@@ -1,6 +1,8 @@
 # POLLEN_WATCH
 
-![Alt text](top_photo.jpg)
+![Alt text](img/top_photo.jpg)
+
+![Alt text](img/WNIPW-2015.jpg)
 
 ## TEST
 
