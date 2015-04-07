@@ -50,9 +50,9 @@
 企画・ファームウェア開発でマクニカ様  
 筐体量産・基板作成でピーダブルビー様にご協力いただきました。  
 
-* [株式会社マクニカ](http://www.macnica.co.jp/)
+* [株式会社マクニカ](http://www.m-pression.com/ja/solutions/boards/koshian)
 
-<a href="http://www.macnica.co.jp/"><img alt="PWB" style="border-width:0" src="img/mpression4MAKERS.png" /></a>
+<a href="http://www.m-pression.com/ja/solutions/boards/koshian"><img alt="PWB" style="border-width:0" src="img/mpression4MAKERS.png" /></a>
 
 * [株式会社ピーダブルビー](http://www.pwb.co.jp/)
 
