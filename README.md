@@ -1,8 +1,10 @@
 # POLLEN_WATCH
 
-![Alt text](img/top_photo.jpg)
+![weathernews](WNIlogo0236.png)
 
-![Alt text](img/WNIPW-2015.jpg)
+![WNIPW-2015](img/top_photo.jpg)
+
+![WNIPW-2015](img/WNIPW-2015.jpg)
 
 ## ポールンウォッチって？
 
