@@ -1,6 +1,6 @@
 # POLLEN_WATCH
 
-![weathernews](WNIlogo0236.png)
+![weathernews](img/WNIlogo0236.png)
 
 ![WNIPW-2015](img/top_photo.jpg)
 
